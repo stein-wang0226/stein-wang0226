@@ -1,4 +1,4 @@
-### Hi, I'm Yuxiang Wang (王煜祥)
+### Hi, I'm Yuxiang Wang
 
 First-year M.S. student at the [School of Data Science, Fudan University](https://sds.fudan.edu.cn/), advised by [Prof. Baojian Zhou](https://baojian.github.io/) at the [Knowledge Works Lab](http://kw.fudan.edu.cn/).
 
