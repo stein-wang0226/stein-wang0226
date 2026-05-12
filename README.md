@@ -20,6 +20,11 @@ LLMs (Agents) · Diffusion Language Models · AI4S · Multimodal LLMs · GNNs
 
 Research intern at Alibaba (AI4S / Multimodal LLM) — working on protein–text foundation models, unified evaluation frameworks, and Protein Agents.
 
+#### Notes & Learning Resources
+
+- [**LLM Study Notes**](https://stein-wang0226.github.io/llm-study-notes/) — my running notes on large language model fundamentals and recent papers.
+- [**Multimodal LLM Interview Notes**](https://stein-wang0226.github.io/mllm-interview-notes/) — interview preparation handbook covering multimodal LLM foundations.
+
 #### Contact
 
 25210980109@m.fudan.edu.cn
