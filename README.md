@@ -27,4 +27,5 @@ Research intern at Alibaba (AI4S / Multimodal LLM) — working on protein–text
 
 #### Contact
 
-25210980109@m.fudan.edu.cn
+- 25210980109@m.fudan.edu.cn
+- [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=PCoqb3wAAAAJ)
