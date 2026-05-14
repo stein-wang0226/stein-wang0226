@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=yuxiang+wang" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=stein-wang" alt="Typing SVG" />
 
 <sub>LLM · Diffusion LM · AI4S · Multimodal · GNN</sub>
 
