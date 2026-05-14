@@ -20,10 +20,18 @@ LLMs (Agents) · Diffusion Language Models · AI4S · Multimodal LLMs · GNNs
 
 Research intern at Alibaba (AI4S / Multimodal LLM) — working on protein–text foundation models, unified evaluation frameworks, and Protein Agents.
 
-#### Notes & Learning Resources
+---
 
-- [**LLM Study Notes**](https://stein-wang0226.github.io/llm-study-notes/) — my running notes on large language model fundamentals and recent papers.
-- [**Multimodal LLM Interview Notes**](https://stein-wang0226.github.io/mllm-interview-notes/) — interview preparation handbook covering multimodal LLM foundations.
+#### 📚 Notes & Learning Resources — 欢迎大家学习！
+
+> **Open-sourced study notes for LLM/Multimodal/RL interview preparation. Feel free to star & use!**
+
+| Notes | Description |
+|-------|-------------|
+| [**LLM & Multimodal Interview Notes**](https://stein-wang0226.github.io/mllm-interview-notes/) | Transformer, LLM Architecture, RLHF/DPO, Multimodal (CLIP/LLaVA/GPT-4o), Engineering |
+| [**RL for LLM Alignment Quick Reference**](https://stein-wang0226.github.io/mllm-interview-notes/rl-interview-guide.html) | Policy Gradient → PPO → GRPO, RLHF Pipeline, DPO Derivation, Algorithm Comparison |
+| [**VLM Knowledge & Interview Guide (2025-2026)**](https://stein-wang0226.github.io/mllm-interview-notes/vlm-knowledge-interview.html) | Visual Encoder, VLM Architecture, Alignment, Resolution Strategy, MoE, Latest Progress |
+| [**NLP & LLM Course Notes**](https://stein-wang0226.github.io/llm-study-notes/) | Tokenization, N-gram, Embeddings, Neural LM, Transformer, GPT, BERT, RLHF (Fudan CS40008) |
 
 #### Contact
 
