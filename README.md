@@ -4,8 +4,9 @@
 
 <br/>
 
-[![Homepage](https://img.shields.io/badge/Homepage-stein--wang0226.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stein-wang0226.github.io/)
+[![CV / Academic Page](https://img.shields.io/badge/CV-Academic%20Homepage-58A6FF?style=for-the-badge&logo=academicons&logoColor=white)](https://stein-wang0226.github.io/wyx0226.github.io/)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=PCoqb3wAAAAJ)
+[![Notes](https://img.shields.io/badge/Study%20Notes-Portal-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stein-wang0226.github.io/)
 [![Email](https://img.shields.io/badge/Email-Fudan-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:25210980109@m.fudan.edu.cn)
 
 </div>
