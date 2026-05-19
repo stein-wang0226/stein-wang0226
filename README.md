@@ -59,6 +59,14 @@ Research Interests: Large Language Models (Agents), Diffusion Language Models, A
 </td>
 <td width="50%">
 
+**[Transformer Decoder 全流程](https://stein-wang0226.github.io/transformer-decoder-flow.html)**
+<br/>训练(并行) vs 推理(自回归+KV Cache)、张量维度推导、RoPE/Attention/MLP 维度链
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
 **[NLP & LLM Course Notes](https://stein-wang0226.github.io/llm-study-notes/)**
 <br/>Tokenization | N-gram | Transformer | GPT | BERT | RLHF (Fudan CS40008)
 
