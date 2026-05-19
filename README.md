@@ -35,44 +35,13 @@ Research Interests: Large Language Models (Agents), Diffusion Language Models, A
 
 > Interview prep notes for LLM / Multimodal / RL. Feel free to star and use!
 
-<table>
-<tr>
-<td width="50%">
-
-**[LLM & Multimodal Interview Notes](https://stein-wang0226.github.io/mllm-interview-notes/)**
-<br/>Transformer | LLM Architecture | RLHF/DPO | Multimodal (CLIP/LLaVA/GPT-4o) | Engineering
-
-</td>
-<td width="50%">
-
-**[RL for LLM Alignment](https://stein-wang0226.github.io/rl-interview-guide.html)**
-<br/>Policy Gradient → PPO → GRPO | RLHF Pipeline | DPO Derivation | RLVR
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[VLM Knowledge & Interview (2025-2026)](https://stein-wang0226.github.io/mllm-interview-notes/vlm-knowledge-interview.html)**
-<br/>Visual Encoder | VLM Architecture | Alignment | Resolution | MoE
-
-</td>
-<td width="50%">
-
-**[Transformer Decoder 全流程](https://stein-wang0226.github.io/transformer-decoder-flow.html)**
-<br/>训练(并行) vs 推理(自回归+KV Cache)、张量维度推导、RoPE/Attention/MLP 维度链
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**[NLP & LLM Course Notes](https://stein-wang0226.github.io/llm-study-notes/)**
-<br/>Tokenization | N-gram | Transformer | GPT | BERT | RLHF (Fudan CS40008)
-
-</td>
-</tr>
-</table>
+| Resource | Description |
+|:---------|:------------|
+| [**LLM & Multimodal Interview Notes**](https://stein-wang0226.github.io/mllm-interview-notes/) | Transformer, LLM Architecture, RLHF/DPO, Multimodal (CLIP/LLaVA/GPT-4o), Engineering |
+| [**RL for LLM Alignment**](https://stein-wang0226.github.io/rl-interview-guide.html) | Policy Gradient → PPO → GRPO, RLHF Pipeline, DPO Derivation, RLVR |
+| [**VLM Knowledge & Interview (2025-2026)**](https://stein-wang0226.github.io/mllm-interview-notes/vlm-knowledge-interview.html) | Visual Encoder, VLM Architecture, Alignment, Resolution, MoE |
+| [**Transformer Decoder 全流程**](https://stein-wang0226.github.io/transformer-decoder-flow.html) | 训练(并行) vs 推理(自回归+KV Cache)、张量维度推导、RoPE/Attention/MLP 维度链 |
+| [**NLP & LLM Course Notes**](https://stein-wang0226.github.io/llm-study-notes/) | Tokenization, N-gram, Transformer, GPT, BERT, RLHF (Fudan CS40008) |
 
 ---
 
