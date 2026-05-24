@@ -37,10 +37,13 @@ Research Interests: Large Language Models (Agents), Diffusion Language Models, A
 
 | Resource | Description |
 |:---------|:------------|
+| [**LLM 算法岗面试题库 (420+ 题)**](https://stein-wang0226.github.io/llm-interview-bank.html) | Transformer / RLHF / RL / Agentic RL / VLM / Agent / RAG / Infra / 手撕代码，含详解答案 |
 | [**LLM & Multimodal Interview Notes**](https://stein-wang0226.github.io/mllm-interview-notes/) | Transformer, LLM Architecture, RLHF/DPO, Multimodal (CLIP/LLaVA/GPT-4o), Engineering |
-| [**RL for LLM Alignment**](https://stein-wang0226.github.io/rl-interview-guide.html) | Policy Gradient → PPO → GRPO, RLHF Pipeline, DPO Derivation, RLVR |
+| [**RL for LLM Alignment**](https://stein-wang0226.github.io/rl-interview-guide.html) | Policy Gradient → PPO → GRPO, DQN/DDPG/TD3/SAC, RLHF Pipeline, DPO Derivation, RLVR |
 | [**VLM Knowledge & Interview (2025-2026)**](https://stein-wang0226.github.io/mllm-interview-notes/vlm-knowledge-interview.html) | Visual Encoder, VLM Architecture, Alignment, Resolution, MoE |
 | [**Transformer Decoder 全流程**](https://stein-wang0226.github.io/transformer-decoder-flow.html) | 训练(并行) vs 推理(自回归+KV Cache)、张量维度推导、RoPE/Attention/MLP 维度链 |
+| [**Training Infra & Distributed Systems**](https://stein-wang0226.github.io/mllm-interview-notes/12-training-infra.html) | DDP/FSDP/ZeRO/TP/PP/3D Parallel, LoRA/QLoRA, Flash Attention 1-3, Mixed Precision |
+| [**Inference Optimization & System Design**](https://stein-wang0226.github.io/mllm-interview-notes/10-inference-system.html) | KV Cache, PagedAttention, Quantization, Speculative Decoding, System Design |
 | [**NLP & LLM Course Notes**](https://stein-wang0226.github.io/llm-study-notes/) | Tokenization, N-gram, Transformer, GPT, BERT, RLHF (Fudan CS40008) |
 
 ---
