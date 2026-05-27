@@ -37,6 +37,7 @@ Research Interests: Large Language Models (Agents), Diffusion Language Models, A
 
 | Resource | Description |
 |:---------|:------------|
+| [**Agent Harness 深度解析**](https://stein-wang0226.github.io/agent-harness-guide.html) | Agent 训练基础设施全景 — 四层架构、异步 Rollout、GRPO、Reward 工程、VERL/ROLL/RAGEN 框架对比 |
 | [**LLM 算法岗面试题库 (420+ 题)**](https://stein-wang0226.github.io/llm-interview-bank.html) | Transformer / RLHF / RL / Agentic RL / VLM / Agent / RAG / Infra / 手撕代码，含详解答案 |
 | [**LLM & Multimodal Interview Notes**](https://stein-wang0226.github.io/mllm-interview-notes/) | Transformer, LLM Architecture, RLHF/DPO, Multimodal (CLIP/LLaVA/GPT-4o), Engineering |
 | [**RL for LLM Alignment**](https://stein-wang0226.github.io/rl-interview-guide.html) | Policy Gradient → PPO → GRPO, DQN/DDPG/TD3/SAC, RLHF Pipeline, DPO Derivation, RLVR |
