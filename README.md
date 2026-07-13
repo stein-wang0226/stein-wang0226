@@ -85,6 +85,7 @@ location: Shanghai, China
 
 | Resource | Description |
 |:---------|:------------|
+| [**🔥 Agentic RL 全景指南**](https://stein-wang0226.github.io/agentic-rl-guide.html) | PPO/DPO/GRPO/OPD 四大族谱 · 8 大 Part · 89 篇 arXiv · DeepSeek V4 / GLM-5.2 / Kimi K2.6 · ICLR/ICML 2026 |
 | [**🔥 DLM Survey — 扩散语言模型前沿调研**](https://stein-wang0226.github.io/dlm-survey/) | D3PM → LLaDA: 四大路线全景、Scaling Laws、投机解码、ELBO/RL 训练，50+ 核心论文 |
 | [**Agent Harness 深度解析**](https://stein-wang0226.github.io/agent-harness-guide.html) | Agent 训练基础设施全景 — 四层架构、异步 Rollout、GRPO、VERL/ROLL/RAGEN 对比 |
 | [**Transformer Decoder 全流程**](https://stein-wang0226.github.io/transformer-decoder-flow.html) | 训练(并行) vs 推理(自回归+KV Cache)、张量维度推导、RoPE/Attention/MLP 维度链 |
@@ -142,12 +143,8 @@ location: Shanghai, China
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stein-wang0226&theme=transparent" width="70%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stein-wang0226&theme=transparent" width="34%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stein-wang0226&theme=transparent" width="34%" />
+<img src="https://github-readme-stats.vercel.app/api?username=stein-wang0226&show_icons=true&theme=transparent&hide_border=true&icon_color=0D9488&title_color=0D9488&text_color=555&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stein-wang0226&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&text_color=555&langs_count=8" width="38%" />
 
 </div>
 
