@@ -85,7 +85,8 @@ location: Shanghai, China
 
 | Resource | Description |
 |:---------|:------------|
-| [**🔥 Agentic RL 全景指南**](https://stein-wang0226.github.io/agentic-rl-guide.html) | PPO/DPO/GRPO/OPD 四大族谱 · 8 大 Part · 89 篇 arXiv · DeepSeek V4 / GLM-5.2 / Kimi K2.6 · ICLR/ICML 2026 |
+| [**🔥 Agentic RL 全景指南**](https://stein-wang0226.github.io/agentic-rl-guide.html) | PPO/DPO/GRPO/OPD 四大族谱 · 8 大 Part · 89 篇 arXiv · DeepSeek V4 / GLM-5.2 / Kimi K2.6 · ICLR/ICML 2026 — 前置基础见 [RL for LLM Alignment](https://stein-wang0226.github.io/rl-interview-guide.html) |
+| [**RL for LLM Alignment**](https://stein-wang0226.github.io/rl-interview-guide.html) | Policy Gradient → PPO → GRPO, DQN/SAC, RLHF Pipeline, DPO Derivation — 进阶 Agentic RL 算法全景见 [Agentic RL 全景指南](https://stein-wang0226.github.io/agentic-rl-guide.html) |
 | [**🔥 DLM Survey — 扩散语言模型前沿调研**](https://stein-wang0226.github.io/dlm-survey/) | D3PM → LLaDA: 四大路线全景、Scaling Laws、投机解码、ELBO/RL 训练，50+ 核心论文 |
 | [**Agent Harness 深度解析**](https://stein-wang0226.github.io/agent-harness-guide.html) | Agent 训练基础设施全景 — 四层架构、异步 Rollout、GRPO、VERL/ROLL/RAGEN 对比 |
 | [**Transformer Decoder 全流程**](https://stein-wang0226.github.io/transformer-decoder-flow.html) | 训练(并行) vs 推理(自回归+KV Cache)、张量维度推导、RoPE/Attention/MLP 维度链 |
@@ -96,7 +97,6 @@ location: Shanghai, China
 |:---------|:------------|
 | [**LLM 算法岗面试题库 (420+ 题)**](https://stein-wang0226.github.io/llm-interview-bank.html) | Transformer / RLHF / RL / Agentic RL / VLM / Agent / RAG / Infra / 手撕代码 |
 | [**LLM & Multimodal Interview Notes**](https://stein-wang0226.github.io/mllm-interview-notes/) | Transformer, LLM Architecture, RLHF/DPO, Multimodal (CLIP/LLaVA/GPT-4o) |
-| [**RL for LLM Alignment**](https://stein-wang0226.github.io/rl-interview-guide.html) | Policy Gradient → PPO → GRPO, DQN/SAC, RLHF Pipeline, DPO Derivation |
 | [**VLM Knowledge & Interview (2025-2026)**](https://stein-wang0226.github.io/mllm-interview-notes/vlm-knowledge-interview.html) | Visual Encoder, VLM Architecture, Alignment, Resolution, MoE |
 
 ### 🏗️ Infrastructure & Systems
