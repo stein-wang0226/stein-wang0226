@@ -56,6 +56,7 @@ location: Shanghai, China
 | Paper | Venue | Role |
 |:------|:-----:|:----:|
 | [**Locality-aware Diffusion Language Modeling**](https://arxiv.org/abs/2604.24832) — *Scatter* & *Jigsaw* blockwise architectures bridging AR and Diffusion | Preprint 2026 | **Sole 1st** |
+| [**Semantic DLM+**](https://arxiv.org/abs/2606.15327) — Improving DLMs through Bias-variance Trade-off in Transition Kernel Design | Preprint 2026 | 2nd |
 | [**STM: Spatio-Temporal Distance Model for Dynamic Graph Fraud Detection**](https://link.springer.com/chapter/10.1007/978-981-95-3906-2_3) — SOTA on multiple benchmarks + invention patent | CCF-B | **1st** |
 | **SemDLM: Semantic Diffusion Language Modeling** — 27.19 Test PPL on LM1B | Preprint 2026 | 2nd |
 
